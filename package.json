@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Blog app in AngularJS and ExpressJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "app-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeep821/blogAppAngularJS.git"
+  },
+  "keywords": [
+    "BlogApp",
+    "AngularJS",
+    "ExpressJS"
+  ],
+  "author": "Sandeep Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeep821/blogAppAngularJS/issues"
+  },
+  "homepage": "https://github.com/Sandeep821/blogAppAngularJS#readme",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
