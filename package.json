@@ -2,7 +2,7 @@
   "name": "y",
   "version": "1.0.0",
   "description": "Blog app in AngularJS and ExpressJs",
-  "main": "index.html",
+  "main": "src/client/index.html",
   "scripts": {
     "test": "app-test"
   },
